@@ -1,0 +1,10 @@
+numpy==1.24.4; python_version < "3.12"
+numpy==1.26.4; python_version >= "3.12"
+matplotlib==3.7.5
+
+# 노트북 실행 도구. 수학 계산은 NumPy로만 수행한다.
+nbclient==0.10.0
+ipykernel==6.29.5
+nbformat==5.10.4
+jupyter-client==8.6.3
+ipython==8.12.3
