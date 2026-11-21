@@ -29,7 +29,7 @@ python -m src.calculus
 python -m src.optimizer
 ```
 
-세 모듈은 `outputs/`에 01~06번 PNG를 저장하고 결과를 터미널에 출력한다. 노트북은 같은 Python 환경의 Jupyter 또는 VS Code에서 열고 모든 셀을 실행한다. [역전파 노트북](notebooks/backprop_derivation.ipynb)은 손계산과 NumPy 결과를 확인한다. [확률과 손실 노트북](notebooks/probability_loss.ipynb)은 07~08번 PNG를 저장한다.
+세 모듈은 `outputs/`에 01-06번 PNG를 저장하고 결과를 터미널에 출력한다. 노트북은 같은 Python 환경의 Jupyter 또는 VS Code에서 열고 모든 셀을 실행한다. [역전파 노트북](notebooks/backprop_derivation.ipynb)은 손계산과 NumPy 결과를 확인한다. [확률과 손실 노트북](notebooks/probability_loss.ipynb)은 07-08번 PNG를 저장한다.
 
 ## 필수 산출물과 결과
 
