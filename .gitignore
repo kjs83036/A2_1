@@ -18,6 +18,7 @@
 /notebooks/*
 !/notebooks/backprop_derivation.ipynb
 !/notebooks/probability_loss.ipynb
+!/notebooks/a2_1_functional_requirements.ipynb
 
 !/outputs/
 /outputs/*
